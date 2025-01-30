@@ -1,13 +1,16 @@
 /* RESET */
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: black;
 }
 
-header {}
+header {
+
+}
 
 main {
-    background-color: aliceblue;
-
+    background-color: lightblue;
+    
 }
